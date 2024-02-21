@@ -3,8 +3,19 @@
 ![sunshine](https://github.com/sunshine-project/.github/assets/89628690/da15e84a-00f5-44e1-ac90-d3a89a1d96ab)
 
 # SDGs' Goal
-### Decent Work And Economic Growth
-<img src="https://github.com/sunshine-project/.github/assets/89628690/a24c2717-8f05-4128-81c1-60ccd440006e" alt="이미지" width="20%" height="auto">
+<table>
+<tr>
+  <td><img src="https://github.com/sunshine-project/.github/assets/89628690/a24c2717-8f05-4128-81c1-60ccd440006e" alt="이미지" width="300" style="float:left; padding-right:20px;"></td>
+  <td>
+    <strong>8.5.2 Unemployment Rate</strong><br>
+    “By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.”
+    <br><br>
+    <strong>8.6.1 Youth employment, education and training</strong><br>
+    “By 2020, substantially reduce the proportion of youth not in employment, education or training.”
+  </td>
+</tr>
+</table>
+
 
 # Introduction
 In modern society, the phenomenon of individuals, particularly youths, living in isolation is not just a personal issue but a significant societal challenge. Originally identified in Japan as "Hikikomori," this issue has seen a concerning rise in South Korea, largely attributed to the high youth unemployment rates and the stark disparities in working conditions between large corporations and smaller businesses. The economic and social ramifications of this issue are profound, with an estimated annual loss of 5.6 billion dollars due to the withdrawal of these young individuals from the workforce, leading to a decrease in societal vitality and potential disintegration of family structures.
@@ -31,6 +42,7 @@ demo .gif 이 올라갈 예정
 # Tech Stack
 
 # ERD 
+<img width="558" alt="스크린샷 2024-02-21 오후 8 50 53" src="https://github.com/sunshine-project/.github/assets/89628690/34731021-9400-4ca6-b3b8-620d518605ef">
 
 # Convention
 ## Commit Convention
