@@ -48,7 +48,7 @@ demo .gif 이 올라갈 예정
 
 | **Geonwoo Pack** | **Chanhyo Jeong** | **Jin Yu** | **Yunso Lee** |
 | :------: | :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/113356682?v=4" height=100 width=100> <br/> @packdev937](https://github.com/packdev937) | [<img src="https://avatars.githubusercontent.com/u/52905679?v=4" height=100 width=100> <br/> @roian6](https://github.com/roian6) | [<img src="https://avatars.githubusercontent.com/u/110217133?v=4" height=100 width=100> <br/> @HI-JIN2](https://github.com/HI-JIN2) | [<img src="https://avatars.githubusercontent.com/u/101050942?v=4" height=100 width=100> <br/> @YUNSO99](https://github.com/YUNSO99) |
+| [<img src="https://avatars.githubusercontent.com/u/89628690?v=4" height=100 width=100> <br/> @packdev937](https://github.com/packdev937) | [<img src="https://avatars.githubusercontent.com/u/23256775?v=4" height=100 width=100> <br/> @roian6](https://github.com/roian6) | [<img src="https://avatars.githubusercontent.com/u/94737714?v=4" height=100 width=100> <br/> @HI-JIN2](https://github.com/HI-JIN2) | [<img src="https://avatars.githubusercontent.com/u/76758126?v=4" height=100 width=100> <br/> @YUNSO99](https://github.com/YUNSO99) |
 
 # Convention
 ## Commit Convention
