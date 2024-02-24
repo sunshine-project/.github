@@ -44,6 +44,12 @@ demo .gif 이 올라갈 예정
 # ERD 
 <img width="558" alt="스크린샷 2024-02-21 오후 8 50 53" src="https://github.com/sunshine-project/.github/assets/89628690/34731021-9400-4ca6-b3b8-620d518605ef">
 
+# Team
+
+| **Geonwoo Pack** | **Chanhyo Jeong** | **Jin Yu** | **Yunso Lee** |
+| :------: | :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/113356682?v=4" height=100 width=100> <br/> @packdev937](https://github.com/packdev937) | [<img src="https://avatars.githubusercontent.com/u/52905679?v=4" height=100 width=100> <br/> @roian6](https://github.com/roian6) | [<img src="https://avatars.githubusercontent.com/u/110217133?v=4" height=100 width=100> <br/> @HI-JIN2](https://github.com/HI-JIN2) | [<img src="https://avatars.githubusercontent.com/u/101050942?v=4" height=100 width=100> <br/> @YUNSO99](https://github.com/YUNSO99) |
+
 # Convention
 ## Commit Convention
 | Tag      | Description                                         |
