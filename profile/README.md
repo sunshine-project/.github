@@ -36,10 +36,13 @@ In essence, Sunshine is more than just an app; it's a movement towards healing, 
 
 
 # Demo 
-
-demo .gif 이 올라갈 예정
+<a href="https://www.youtube.com/watch?v=t8A5LCxwy1U">
+  <img src="https://img.youtube.com/vi/t8A5LCxwy1U/maxresdefault.jpg" width="500" alt="Watch the video">
+</a>
 
 # Tech Stack
+<img width="538" alt="스크린샷 2024-02-25 오후 12 37 44" src="https://github.com/sunshine-project/.github/assets/89628690/35b3d228-e716-4def-8aff-44e31777177d">
+
 
 # ERD 
 <img width="558" alt="스크린샷 2024-02-21 오후 8 50 53" src="https://github.com/sunshine-project/.github/assets/89628690/34731021-9400-4ca6-b3b8-620d518605ef">
