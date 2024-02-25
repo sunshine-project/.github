@@ -58,6 +58,30 @@ In essence, Sunshine is more than just an app; it's a movement towards healing, 
 # ERD 
 <img width="558" alt="스크린샷 2024-02-21 오후 8 50 53" src="https://github.com/sunshine-project/.github/assets/89628690/34731021-9400-4ca6-b3b8-620d518605ef">
 
+# Download and Install APK File
+- Download the above File to your Android Device
+- Initiate the installation either through the download notification or a file browser.
+- You’ll receive a warning at the bottom of the phone letting you know that you need to give that app permission to install the file.
+- Tap the Settings button to proceed.
+- On the next page, find the app from the previous step and toggle it on.
+- A prompt should pop up, giving you the option to install the app. Go ahead and follow the instructions to install.
+
+# How to build from Source
+
+1. Copy this https://github.com/sunshine-project/android.git for follow the picture below.
+clone
+
+2. Install Lattest version of Android Studio from https://developer.android.com/studio
+
+3. Open Android Studio and select GET FROM VCS.
+
+4. Choose "Git" from the drop-down menu and paste this https://github.com/sunshine-project/android.git into the "URL" field.
+
+5. Choose the directory where you want to save the project and click "Clone".
+
+6. Once the cloning process is complete, Android Studio will open the project.
+
+
 # Convention
 ## Commit Convention
 | Tag      | Description                                         |
