@@ -38,6 +38,8 @@ In essence, Sunshine is more than just an app; it's a movement towards healing, 
 <img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/712355c0-9b37-4adf-9190-0f9baaff3974">
 <img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/1f1ed580-4530-4eac-b3e0-250268030858">
 <img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/1b5be3db-d972-442c-85a9-6dc03611629c">
+<img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/284c5ff4-0ca6-483e-a8b1-d2a3a32ab965">
+<img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/c90c373c-4e42-4e8d-b9cb-aa4f83ae5ae2">
 
 
 # Demo 
