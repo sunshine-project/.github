@@ -1,11 +1,11 @@
 # Sunshine
 
-![sunshine](https://github.com/sunshine-project/.github/assets/89628690/da15e84a-00f5-44e1-ac90-d3a89a1d96ab)
+![sunshine](https://github.com/sunshine-project/.github/assets/76758126/03221436-000a-496b-bd64-0afff16fbab5)
 
 # SDGs' Goal
 <table>
 <tr>
-  <td><img src="https://github.com/sunshine-project/.github/assets/76758126/03221436-000a-496b-bd64-0afff16fbab5" alt="이미지" width="300" style="float:left; padding-right:20px;"></td>
+  <td><img src="https://github.com/sunshine-project/.github/assets/89628690/a24c2717-8f05-4128-81c1-60ccd440006e" alt="이미지" width="300" style="float:left; padding-right:20px;"></td>
   <td>
     <strong>8.5.2 Unemployment Rate</strong><br>
     “By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.”
@@ -33,6 +33,11 @@ Participants embark on a variety of daily quests within these categories, each d
 As the program concludes, participants are not only better equipped to face the challenges of modern life but are also connected with various job opportunities, setting the stage for their next chapter in life. Sunshine thus serves as a bridge between isolated youths and a more fulfilling, engaged existence, contributing significantly to the broader goal of Decent Work and Economic Growth as outlined by the United Nations Sustainable Development Goals.
 
 In essence, Sunshine is more than just an app; it's a movement towards healing, empowerment, and societal integration, offering a beacon of hope for those who have retreated from the world. Through this innovative approach, we not only address the immediate challenge of isolation but also pave the way for a more inclusive, vibrant society where every individual has the opportunity to thrive.
+
+![34063](https://github.com/sunshine-project/.github/assets/76758126/82c5c6ef-9f73-4330-a4c9-e78c3f732ef2)
+![34064](https://github.com/sunshine-project/.github/assets/76758126/712355c0-9b37-4adf-9190-0f9baaff3974)
+![34065](https://github.com/sunshine-project/.github/assets/76758126/1f1ed580-4530-4eac-b3e0-250268030858)
+![34066](https://github.com/sunshine-project/.github/assets/76758126/1b5be3db-d972-442c-85a9-6dc03611629c)
 
 
 # Demo 
