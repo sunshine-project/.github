@@ -5,7 +5,7 @@
 # SDGs' Goal
 <table>
 <tr>
-  <td><img src="https://github.com/sunshine-project/.github/assets/89628690/a24c2717-8f05-4128-81c1-60ccd440006e" alt="이미지" width="300" style="float:left; padding-right:20px;"></td>
+  <td><img src="https://github.com/sunshine-project/.github/assets/76758126/03221436-000a-496b-bd64-0afff16fbab5" alt="이미지" width="300" style="float:left; padding-right:20px;"></td>
   <td>
     <strong>8.5.2 Unemployment Rate</strong><br>
     “By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.”
