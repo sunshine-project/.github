@@ -34,10 +34,10 @@ As the program concludes, participants are not only better equipped to face the 
 
 In essence, Sunshine is more than just an app; it's a movement towards healing, empowerment, and societal integration, offering a beacon of hope for those who have retreated from the world. Through this innovative approach, we not only address the immediate challenge of isolation but also pave the way for a more inclusive, vibrant society where every individual has the opportunity to thrive.
 
-![34063](https://github.com/sunshine-project/.github/assets/76758126/82c5c6ef-9f73-4330-a4c9-e78c3f732ef2)
-![34064](https://github.com/sunshine-project/.github/assets/76758126/712355c0-9b37-4adf-9190-0f9baaff3974)
-![34065](https://github.com/sunshine-project/.github/assets/76758126/1f1ed580-4530-4eac-b3e0-250268030858)
-![34066](https://github.com/sunshine-project/.github/assets/76758126/1b5be3db-d972-442c-85a9-6dc03611629c)
+<img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/82c5c6ef-9f73-4330-a4c9-e78c3f732ef2">
+<img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/712355c0-9b37-4adf-9190-0f9baaff3974">
+<img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/1f1ed580-4530-4eac-b3e0-250268030858">
+<img width="558" src="https://github.com/sunshine-project/.github/assets/76758126/1b5be3db-d972-442c-85a9-6dc03611629c">
 
 
 # Demo 
